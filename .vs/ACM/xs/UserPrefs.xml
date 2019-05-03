@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{32A29BB1-435F-49EC-AE6B-CB696F89FBD1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Acme.CommonTest/LoggingServiceTest.cs">
+    <Files>
+      <File FileName="ACM.BL/Product.cs" Line="6" Column="49" />
+      <File FileName="Acme.Common/StringHandler.cs" Line="7" Column="48" />
+      <File FileName="Tests/Acme.CommonTest/StringHandlerTest.cs" Line="25" Column="10" />
+      <File FileName="ACM.BL/Customer.cs" Line="7" Column="47" />
+      <File FileName="Acme.Common/LoggingService.cs" Line="12" Column="45" />
+      <File FileName="Acme.Common/ILoggable.cs" Line="6" Column="22" />
+      <File FileName="ACM.BL/Order.cs" Line="27" Column="99" />
+      <File FileName="Tests/Acme.CommonTest/LoggingServiceTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ACM" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="ACM.BLTest" expanded="True" />
+              <Node name="Acme.CommonTest" expanded="True">
+                <Node name="StringHandlerTest.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ACM.BL" expanded="True" />
+            <Node name="Acme.Common" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ACM" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="Acme.CommonTest" expanded="True">
+                <Node name="Acme" expanded="True">
+                  <Node name="CommonTest" expanded="True">
+                    <Node name="StringHandlerTest" expanded="True" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/emontalvo/Documents/c#/ACM/ACM.BL/ProductRepository.cs" relfile="ACM.BL/ProductRepository.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tests.ACM.BLTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

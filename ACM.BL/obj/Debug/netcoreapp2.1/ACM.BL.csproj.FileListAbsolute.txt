@@ -1,0 +1,12 @@
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/bin/Debug/netcoreapp2.1/ACM.BL.deps.json
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/bin/Debug/netcoreapp2.1/ACM.BL.dll
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/bin/Debug/netcoreapp2.1/ACM.BL.pdb
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/obj/Debug/netcoreapp2.1/ACM.BL.csprojAssemblyReference.cache
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/obj/Debug/netcoreapp2.1/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/obj/Debug/netcoreapp2.1/ACM.BL.AssemblyInfoInputs.cache
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/obj/Debug/netcoreapp2.1/ACM.BL.AssemblyInfo.cs
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/obj/Debug/netcoreapp2.1/ACM.BL.dll
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/obj/Debug/netcoreapp2.1/ACM.BL.pdb
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/bin/Debug/netcoreapp2.1/Acme.Common.dll
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/bin/Debug/netcoreapp2.1/Acme.Common.pdb
+/Users/emontalvo/Documents/c#/ACM/ACM.BL/obj/Debug/netcoreapp2.1/ACM.BL.csproj.CopyComplete
